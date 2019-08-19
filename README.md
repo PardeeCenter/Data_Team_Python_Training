@@ -12,7 +12,7 @@ Click the button on the left to use an online interacitve learning environment f
 <br />
 Notes: <br />
 - Pre-installed python version -3.7.4 <br />
-- Pre-installed dependencies- pandas, numpy, scipy, xlrd
+- Pre-installed dependencies- pandas, numpy, scipy, xlrd, openpyxl
 <br />
 <br />
 Supported by: <br />
